@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mr. Bonkers",
-      "isGoodDog": true,
+      "isGoodDog": "true",
       "image": "https://weloveanimals.me/wp-content/uploads/2017/10/gettyimages-590486672-e1508512743796.jpg"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": 6,
       "name": "Snooper Pooper",
-      "isGoodDog": false,
+      "isGoodDog": "true",
       "image": "https://static01.nyt.com/images/2018/02/11/realestate/11dogs-topbreeds-Chihuahua/11dogs-topbreeds-Chihuahua-master495.jpg"
     },
     {
       "id": 7,
       "name": "Puddles",
-      "isGoodDog": true,
+      "isGoodDog": "false",
       "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ny84OTEvb3JpZ2luYWwvd2h5LWRvZ3MtZWF0LXBvb3A="
     },
     {
